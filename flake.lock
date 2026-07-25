@@ -200,11 +200,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1774746760,
-        "narHash": "sha256-g6U7EW1LTvSYaEnwrgwnUMNATK3aeNiATFtsL/u6lJ0=",
+        "lastModified": 1784993101,
+        "narHash": "sha256-xYyDtiquVEilz6aujL6gPmtgezZJUyB5oBCSGUr0Xw4=",
         "owner": "TheColorman",
         "repo": "seadexarr-nix-flake",
-        "rev": "9a8ef20c6f9879694bfbd864cf5d230aa5e74f37",
+        "rev": "33ef61e65a34815bb54e5e15e8d18e67cb60247d",
         "type": "github"
       },
       "original": {
